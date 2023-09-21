@@ -2,7 +2,7 @@
 
 <p align="center">
 
- <img width="900" src="/home/cayanneves/Github/One-for-all/drawSQL.png" alt="exemplo imagem" >
+ <img width="900" src="drawSQL.png" alt="exemplo imagem" >
 </p>
 
 ## 💻 Projeto
